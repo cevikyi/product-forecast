@@ -1,4 +1,5 @@
-Forecasting store-item level SKU for next 90 days using
-  XGBoost
-  Moving Averages
-  Prophet
+### Forecasting store-item level SKU for the next 90 days using:
+
+- **XGBoost**
+- **Moving Averages**
+- **Prophet**
